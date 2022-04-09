@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "5349c2222e6fc8350edcb5f6de4713d0",
+  "main.dart.js": "1fabb08914fe6872c81e9566f618eed4",
 "index.html": "d01419d8514f8560359c71b26bdfb8e6",
 "/": "d01419d8514f8560359c71b26bdfb8e6",
 "favicon.png": "984542880c9a626c99c8984baa3f5c29",
@@ -17,7 +17,7 @@ const RESOURCES = {
 "assets/fonts/Manrope-Medium.ttf": "9846b3db6e4eec04b6f956169f65b3aa",
 "assets/fonts/Manrope-Regular.ttf": "a9faa3e7843c86bd8693aa685101332b",
 "assets/fonts/Manrope-ExtraLight.ttf": "fc31f26b4b217f3af2aa6c103a3c45d8",
-"assets/AssetManifest.json": "26d6ef72ee5c895825594509b2fa706d",
+"assets/AssetManifest.json": "86c910dcf1c2be5ef17133bcd20cce9b",
 "assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "b62641afc9ab487008e996a5c5865e56",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/FontManifest.json": "e5f189376d751fa6cf98e1dd848daced",
@@ -54,13 +54,14 @@ const RESOURCES = {
 "assets/assets/images/sponsors/gdg_turkey.png": "4df319b3b240377570eb027e38107479",
 "assets/assets/images/sponsors/dop.png": "8d69ba8f642f4686c752f45d1c0a38cf",
 "assets/assets/images/sponsors/fluttertr.png": "6eebd6174c48e1648ec9e4f73070ee4f",
+"assets/assets/images/sponsors/parasut.png": "e75616b5aa0b6fb94a814f1186b41d99",
 "assets/assets/images/speaker_placeholder.png": "44b7a2309b2a1553e145363a6e29a2c5",
 "assets/assets/videos/countdown_bg.mp4": "6be1859926487e1bc7b101c093df5490",
 "assets/NOTICES": "39658fd189d6d33898b4bd4accc660b0",
 "icons/Icon-192.png": "f734be520ccdb09c10e2bbc6ec0b191b",
 "icons/Icon-512.png": "939bbe74c06923f54a9c48805e72c498",
 "manifest.json": "21ec26c3d3fde1fd00fb3b188a7bc64d",
-"version.json": "24cfed2e38a9f6fbc3a4d770b6182d5e",
+"version.json": "a5587dbc7ccf3e4c887eec5941318b8f",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
